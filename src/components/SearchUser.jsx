@@ -9,14 +9,14 @@ const SearchUser = () => {
     <div className="dashboard-container">
       <section className="userimg-container">
         <img
-          src="../../public/assests/Group 46@2x.png"
+          src="../../dist/assests/Group 46@2x.png"
           alt="Call Icon"
           className="w-[50px] h-[50px] absolute mx-auto top-4 right-4"
         />
       </section>
       <section className="dashboardlogo-container">
         <img
-          src="../../public/assests/moptro logo.png"
+          src="../../dist/assests/moptro logo.png"
           alt="Moptro Logo"
           className="w-24 h-24 mx-auto mt-8 mb-4"
         />

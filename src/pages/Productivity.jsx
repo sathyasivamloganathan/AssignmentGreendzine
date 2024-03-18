@@ -16,13 +16,13 @@ const Productivity = () => {
       return (
         <>
           <img
-            src="../../public/assests/Group 46@2x.png"
+            src="../../dist/assests/Group 46@2x.png"
             alt="Call Icon"
             className="w-[50px] h-[50px] absolute mx-auto top-4 right-4"
           />
           <div className="flex flex-col justify-center items-center pt-8">
             <img
-              src="../../public/assests/moptro logo.png"
+              src="../../dist/assests/moptro logo.png"
               alt="Moptro Logo"
               className="w-24 h-24 mx-auto mt-8 mb-4"
             />

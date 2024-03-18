@@ -28,7 +28,7 @@ const Login = () => {
 
   return (
     <div>
-        <img src="../../public/assests/Group 3.png" alt="login_img" width={"90px"} height={"90px"} style={{marginTop: "160px"}} className="mx-auto d-flex justify-center items-center"/>
+        <img src="../../dist/assests/Group 3.png" alt="login_img" width={"90px"} height={"90px"} style={{marginTop: "160px"}} className="mx-auto d-flex justify-center items-center"/>
         <p className="subtext text-center">#We are Electric</p>
 
         <form onSubmit={handleSubmit}>
